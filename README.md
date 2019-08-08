@@ -1,3 +1,4 @@
+[![Build Status](https://steverulez.visualstudio.com/Azure101/_apis/build/status/steverulez.mslearn-tailspin-spacegame-web?branchName=master)](https://steverulez.visualstudio.com/Azure101/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
