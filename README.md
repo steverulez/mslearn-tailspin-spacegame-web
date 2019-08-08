@@ -1,4 +1,4 @@
-[![Build Status](https://steverulez.visualstudio.com/Azure101/_apis/build/status/steverulez.mslearn-tailspin-spacegame-web?branchName=master)](https://steverulez.visualstudio.com/Azure101/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://steverulez.visualstudio.com/Azure101/_apis/build/status/steverulez.mslearn-tailspin-spacegame-web?branchName=master)](https://steverulez.visualstudio.com/Azure101/_build/latest?definitionId=1&branchName=master) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=steverulez_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=steverulez_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
